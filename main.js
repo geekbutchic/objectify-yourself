@@ -8,7 +8,7 @@ console.log(myCodeImmersivesObj);
 
 
 // Add the new property `isAnExcellentObject` and set it to `true`.
-myCodeImmersivesObj.isAnExcellentObject = 'true';
+myCodeImmersivesObj.isAnExcellentObject = true;
 console.log(myCodeImmersivesObj);
 
 
